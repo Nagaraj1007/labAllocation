@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
        labAllocation lab = new labAllocation();
-       int array[]={90,50,60};
-       System.out.println(lab.labNumber( array, 40));
+       int array[]={30,40,20};
+       System.out.println(lab.labNumber( array, 25));
     }
 }
